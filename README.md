@@ -11,3 +11,6 @@
 ㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎ
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+![snake gif](https://github.com/Jjchoi19/Jjchoi19/blob/output/github-contribution-grid-snake.svg)
