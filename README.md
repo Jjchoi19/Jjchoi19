@@ -14,7 +14,7 @@
 
 
 ![snake gif](https://github.com/Jjchoi19/Jjchoi19/blob/output/github-contribution-grid-snake.svg)
-
 ![snake gif](https://github.com/Jjchoi19/Jjchoi19/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Jjchoi19/Jjchoi19/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Jjchoi19/Jjchoi19/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/Jjchoi19/Jjchoi19/blob/output/github-contribution-grid-snake.svg)
